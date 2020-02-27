@@ -1,1 +1,7 @@
+#include<stdio.h>
 
+int main()
+{
+          printf("风霜以别草木之性，危难而见贞良之节");
+		  return 0; 
+}
